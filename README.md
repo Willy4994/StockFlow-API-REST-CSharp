@@ -44,7 +44,15 @@ Frontend: `http://localhost:5173`
 | DELETE | `/api/Productos/{id}` | Eliminar producto |
 
 ## Video demostrativo
-**Enlace del video (máximo 3 minutos):** PENDIENTE_DE_AGREGAR
 
+En el siguiente enlace se encuentra la demostración del funcionamiento
+del proyecto StockFlow, desarrollado con ASP.NET Core Web API,
+Entity Framework Core, SQLite y React.
+
+Durante la presentación se muestran las operaciones CRUD
+(GET, POST, PUT y DELETE), así como la comunicación
+entre el frontend y la API REST.
+
+[Ver video de presentación de StockFlow](https://drive.google.com/drive/folders/19jIPY7QkOQwg4AFnoEnKeZlNHu8HZbpd?usp=sharing)
 ## Autor
 Willi Hernández Gabriel
