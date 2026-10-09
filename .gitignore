@@ -1,0 +1,25 @@
+# .NET
+**/bin/
+**/obj/
+.vs/
+*.user
+
+# React / Node.js
+**/node_modules/
+**/dist/
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Base de datos SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
